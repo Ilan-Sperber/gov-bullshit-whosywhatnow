@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Government Bullshit WhosyWhatNow?",
+  "description": "Government Bullshit WhosyWhatNow? (Bahamas, which fun fact is not new zealand (I googled))",
+  "version": "1.0.0",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "content_scripts": [{
+    "matches": ["https://www.bahamas.gov.bs/*"],
+    "js": ["contentscript.js"]
+  }]
+}
