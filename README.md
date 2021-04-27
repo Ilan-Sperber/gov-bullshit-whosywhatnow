@@ -1,2 +1,2 @@
-# gov-bullshit-whosywhatnow
+# Government Bullshit WhosyWhatNow?
 Fixes the bahamas government website
